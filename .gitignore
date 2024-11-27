@@ -8,7 +8,7 @@ notebooks/
 outputs/
 
 # Ignore environment files
-green_industrial_policy
+# green_industrial_policy
 .Rhistory
 .Rproj.user/
 
