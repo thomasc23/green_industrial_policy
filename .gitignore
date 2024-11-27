@@ -1,13 +1,11 @@
 # Ignore data files
-data/*.csv
-data/*.xlsx
-data/*.json
+data/
 
 # Ignore outputs
 outputs/
 
 # Ignore environment files
-.env
+green_industrial_policy
 .Rhistory
 .Rproj.user/
 

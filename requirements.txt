@@ -115,3 +115,4 @@ widgetsnbextension==4.0.13
 ipykernel
 censusgeocode
 usaddress
+openpyxl

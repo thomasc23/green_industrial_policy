@@ -4,10 +4,11 @@ green_industrial_policy/
 ├── LICENSE
 ├── .gitignore
 ├── data/
+│   ├── precinct_results/
+│   ├── precinct_shapefiles/
 │   ├── raw/
-│   ├── processed/
 │   ├── geocoded/
-│   └── external/
+|   └── processed/
 ├── scripts/
 │   ├── data_reading/
 │   │   └── read_data.R
@@ -20,8 +21,8 @@ green_industrial_policy/
 │   └── analysis/
 │       └── econometric_analysis.R
 ├── notebooks/
-│   ├── exploratory_analysis.ipynb
-│   └── final_analysis.ipynb
+│   ├── maps.ipynb
+│   └── geocoding.ipynb
 ├── outputs/
 │   ├── tables/
 │   ├── figures/
