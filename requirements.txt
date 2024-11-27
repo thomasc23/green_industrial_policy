@@ -117,3 +117,5 @@ censusgeocode
 usaddress
 openpyxl
 sqlite
+geopy
+uszipcode
