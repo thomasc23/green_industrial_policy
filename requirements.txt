@@ -119,3 +119,4 @@ openpyxl
 sqlite
 geopy
 uszipcode
+sqlalchemy_mate==2.0.0.0
